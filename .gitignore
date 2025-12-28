@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.gitmodules
+
+!LICENSE
+!README.md
+
+!Makefile
+
+!main.c
